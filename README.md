@@ -3,7 +3,9 @@
 
 ## **Set Up**
 Pre-requisites:
-* Anaconda (default installation)
+* [Anaconda](https://www.anaconda.com/distribution/) (default installation)
+
+If on Windows, open the Anaconda Prompt for the following steps, on Linux, bash is fine.
 
 Create the environment with the necessary packages:
 
