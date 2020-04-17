@@ -12,6 +12,11 @@
 - Implement ALR using python and GEE
 - Test ALR using dataset provided by Najib
 
+- Cross-validation with LARs
+- Random forests on server side
+- Implement SL2P in normalized predictions, with quality layer and error network
+- Implement quality layer and error network in ALR, oversamples
+
 
 - python
 - ipython
